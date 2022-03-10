@@ -1,5 +1,5 @@
 {
-    "name": "Abu Ser",
+    "name": "ITACHI,
     "description": "Abu is the Modified Version of WhatsAsena, Made By Ajx-Abu with Baileys.",
     "logo": "https://i.imgur.com/t6x2aR5.jpg",
     "keywords": ["whatsapp", "userbot", "Abu", "WhatsAsena", "mwol", "bot", "ai"],
@@ -14,28 +14,28 @@
         },
          "BROADCAST_NAME": {
             "description": "Abu forward ordertext",
-            "required": false,
-            "value": "✰ᴀʙᴜ sᴇʀ✰"
+            "required": true,
+            "value": "✰itachi✰"
         },
         "ALL_IMG": {
             "description": "Change This Image Link If You Want To Change Audio Bc Thumbnail",
             "required": true,
-            "value": "https://i.imgur.com/TR4CYrZ.jpg"
+            "value": "https://geek-post.net/wp-content/uploads/2018/10/AnbuItachi.jpg"
         },
         "V_HEADER": {
             "description": "Set the Header name logo",
-            "required": false,
-            "value": "✰ᴀʙᴜ sᴇʀ✰"
+            "required": true,
+            "value": "✰itachi✰"
         },
         "VERIFIED": {
             "description": "Give with number jid",
-            "required": false,
+            "required": true,
             "value": "0@s.whatsapp.net"
         },
         "DIALOGUE": {
             "description": "set the Dialouge",
             "required": true,
-            "value": "Abu_ser"
+            "value": "itachi"
         },
         "SUDO": {
             "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 91xxxxxxxxx,0",
@@ -54,7 +54,7 @@
         "OWNER_NAME": {
             "description": "Fill your name in here. it will show your name in .owner command reply",
             "required": false,
-            "value": "💖Abu ser💖"
+            "value": "💖itachi💖"
         },
         "AUTO_STICKER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
@@ -64,42 +64,42 @@
         "LG_LOGO": {
             "description": "LOGO list message image link(https://telegra.ph/)link.",
             "required": true,
-            "value": "https://i.imgur.com/t6x2aR5.jpg"
+            "value": "https://geek-post.net/wp-content/uploads/2018/10/AnbuItachi.jpg"
         },
         "LOGO_NAME": {
             "description": "Set the logo list name",
             "required": true,
-            "value": "◄━⦁⦁💖︎𝙸𝚃𝚉 𝙼𝙴 𝙰𝙱𝚄 𝚂𝙴𝚁💖 ⦁⦁━►︎"
+            "value": "◄━⦁⦁💖︎𝙸𝚃𝚉 𝙼𝙴 ITACHI💖 ⦁⦁━►︎"
         },
         "INBO_BLOCK": {
             "description": "Inbox Blocking System. True koduthal ningalude pml vann chila bad words upoayogikunnavare bot block aakum block aakendengil false kodukuka",
             "required": true,
-            "value": "false"
+            "value": "true"
         },
         "WELCOME": {
             "description": "You can select welcome as gif/pp",
-            "required": false,
+            "required": true,
             "value": "pp"
         },
         "WEL_GIF": {
             "description": "Fill here any gif link if you selected gif as WEELCOME",
             "required": false,
-            "value": "false"
+            "value": "true"
         },
         "BYE_GIF": {
             "description": "Fill here any gif link if you selected gif as WEELCOME",
             "required": false,
-            "value": "false"
+            "value": "true"
         },
         "TAG_REPLY": {
             "description": "Enter jid of your number so that you get a audio reply when metioned example - 91xxxxxxxxxx@s.whatsapp.net - for india",
-            "required": false
+            "required": true
 
         },
         "ANTİ_LİNK": {
             "description": "Link Blocking System.",
             "required": false,
-            "value": "false"
+            "value": "true"
         },
         "BGM_DURATION": {
             "description": "FUNY BGM DURATION  codded by SAIDALI",
@@ -109,12 +109,12 @@
         "AUTO_BİO": {
             "description": " Set true for auto date, time in biography.",
             "required": true,
-            "value": "false"
+            "value": "true"
         },
         "BAD_WORDS": {
             "description": "enter the word you dont allow in your group ",
             "required": true,
-            "value": "false"
+            "value": "true"
         },
         "HANDLERS": {
             "description": "For commands.",
@@ -129,7 +129,7 @@
         "NO_LOG": {
             "description": " Set true if you don't want to see error log.",
             "required": true,
-            "value": "false"
+            "value": "true"
         },
         "SEND_READ": {
             "description": "Write true if you want to throw seen.",
@@ -139,7 +139,7 @@
         "ALL_CAPTION": {
             "description": "Caption for images and videos generated by pinky bot",
             "required": true,
-            "value": "💝𝙼𝙰𝙳𝙴 𝙱𝚈 𝙰𝙱𝚄 𝚂𝙴𝚁💝"
+            "value": "💝𝙼𝙰𝙳𝙴 𝙱𝚈 ITACHI💝"
         },
         "HEROKU": {
             "description": "If it is running in Heroku, type true.",
@@ -158,27 +158,27 @@
         "TAG_HEADER": {
             "description": "Heading when taging all",
             "required": false,
-            "value": "ᴀʙᴜ ᴠᴀɴɴᴜ ɪɴɪ ᴘᴏᴡᴇʀ ᴀʏɪʀɪᴋᴋᴜᴍ🥂"
+            "value": "ITACHI🥂"
         },
         "BLOCK_CHAT": {
             "description": "Choose in which chat the bot won't work there. Ex: 905xxxx && 905xxxx-1xxx or 905xxxx,905xxx...",
             "required": false,
-            "value": "false"
+            "value": "true"
         },
         "UNMUTE_MESSAGE": {
             "description": "Customizable Unmute Message! Use => default, to change back.",
             "required": true,
-            "value": "default"
+            "value": "true"
         },
         "BLOCK_MESSAGE": {
             "description": "Customizable Block Message! Use => default, to change back.",
             "required": true,
-            "value": "default"
+            "value": "true"
         },
         "UNBLOCK_MESSAGE": {
             "description": "Customizable Unblock Message! Use => default, to change back.",
             "required": true,
-            "value": "default"
+            "value": "true"
         },
         "NUMBER": {
             "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 91 for indian ) Also don't enter space & + on the number ( example : 91996132xxxx for indian ). ( This number will be shown on some commands )",
@@ -215,7 +215,7 @@
         "ALIVE_BUTTON": {
             "description": "Customize Alive Button ",
             "required": true,
-            "value": "ᴇɴɢᴀɴᴇʏᴜɴᴅ \n ᴀʙᴜ sᴇʀ🌝"
+            "value": "ᴇɴɢᴀɴᴇʏᴜɴᴅ \n itachi🌝"
         },
         "ALIVE_BUTTON2": {
             "description": "Customize Alive Button ",
